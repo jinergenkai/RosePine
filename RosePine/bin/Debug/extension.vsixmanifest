@@ -1,7 +1,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="RosePine.c5ca7336-ecb1-4539-a547-984e827544d7" Version="1.0" Language="en-US" Publisher="Company" />
-    <DisplayName>RosePine</DisplayName>
+    <Identity Id="RosePine.c5ca7336-ecb1-4539-a547-984e827544d7" Version="1.0" Language="en-US" Publisher="Jinergenkai" />
+    <DisplayName>Rose Pine</DisplayName>
     <Description>Empty VSIX Project.</Description>
   </Metadata>
   <Installation>
