@@ -1,0 +1,15 @@
+C:\Project\RosePine\RosePine\bin\Debug\RosePine.vsix
+C:\Project\RosePine\RosePine\bin\Debug\extension.vsixmanifest
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.csproj.AssemblyReference.cache
+C:\Project\RosePine\RosePine\obj\Debug\_EmptyResource.resources
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.csproj.GenerateResource.cache
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.csproj.CoreCompileInputs.cache
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.dll
+C:\Project\RosePine\RosePine\obj\Debug\RosePine.pdb
+C:\Project\RosePine\RosePine\obj\Debug\extension.vsixmanifest
+C:\Project\RosePine\RosePine\obj\Debug\files.json
+C:\Project\RosePine\RosePine\obj\Debug\createTemplateManifests.cache
+C:\Project\RosePine\RosePine\bin\Debug\RosePine.pkgdef
+C:\Project\RosePine\RosePine\bin\Debug\RosePineDark.pkgdef
+C:\Project\RosePine\RosePine\bin\Debug\RosePineLight.pkgdef
